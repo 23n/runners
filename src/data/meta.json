@@ -3,7 +3,7 @@
     "description": "A webring for running-blogs.",
     "image": "freakazoid.jpg",
     "url": "https://runnerswebring.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "repo": "https://github.com/23n/runners",
     "admins": [
         {
             "name": "Oliver Hartmann",
